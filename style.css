@@ -1,0 +1,32 @@
+.test_image_and_result img{
+    width: 200px;
+    height: 200px;
+}
+
+ol{
+    border: solid;
+    border-radius: 20px;
+    background-color: aqua;
+    font-size: 25px;
+}
+
+.heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+   font-size: 25px;
+   background-color:green ;
+  }
+
+  .bottom{
+    color: red;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+    background-color: aquamarine;
+    font-size: 25px;
+    font-weight: bold;
+  }
